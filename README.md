@@ -1,17 +1,28 @@
-## <Greetings, fellow coder/> 👾
+## <Greetings, fellow digital voyager/> 👾🔐
 
-🧠 AI Architect | 🤖 Machine Learning Engineer | 🎮 Game Dev Wizard | 🔊 Sound Alchemist
+🧠 AI Architect | 🛡️ Cybersecurity Specialist | 🐉 Kali Linux Maestro | 🕵️ Ethical Hacker
+🤖 Machine Learning Engineer | 🎮 Game Dev Wizard | 🔊 Sound Alchemist
 
-Crafting intelligent systems, training neural nets, and building immersive game worlds. 
-My code speaks in ones and zeros, but my creations speak to the future.
+Forging intelligent systems, securing digital realms, and crafting immersive experiences.
+My code speaks in ones and zeros, but my creations shape the future of tech.
 
 💻 Skills:
-  - Artificial Intelligence
-  - Machine Learning
+  - Artificial Intelligence & Machine Learning
+  - Cybersecurity & Penetration Testing
+  - Kali Linux & Ethical Hacking
   - Game Development
   - Sound Engineering
+
+🛠️ Tools of the Trade:
+  - Neural Networks
+  - Metasploit Framework
+  - Wireshark
+  - Burp Suite
+  - Unity3D
+  - Ableton Live
 
 🌐 Website: pstepanov.work
 📧 Contact: contact@pstepanov.work
 
-Remember: In the game of code, the one who pushes to production is king.
+Remember: In the matrix of code, the one who secures production is the true guardian.
+Stay curious, stay secure! 🔒🚀
