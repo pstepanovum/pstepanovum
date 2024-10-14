@@ -19,7 +19,7 @@ My code speaks in ones and zeros, but my creations shape the future of tech.
   - Wireshark
   - Burp Suite
   - Unity3D
-  - Ableton Live
+  - FL Studio
 
 🌐 Website: pstepanov.work
 📧 Contact: contact@pstepanov.work
